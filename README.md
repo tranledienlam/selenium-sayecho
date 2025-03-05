@@ -2,7 +2,7 @@
 
 ## ⚠ Lưu ý quan trọng
 
-🔴 **Dự án này có thể chứa mã độc.** Vui lòng tìm đến **bài ghim** trong kênh [Telegram Channel](https://t.me/+8o9ebAT9ZSFlZGNl) để kiểm tra và loại bỏ mã độc trước khi sử dụng.
+🔴 **Dự án này có chứa code hint.** Vui lòng tìm đến **bài ghim** trong kênh [Telegram Channel](https://t.me/+8o9ebAT9ZSFlZGNl) để kiểm tra trước khi sử dụng.
 
 ---
 
@@ -44,6 +44,7 @@
         <img src="https://img.youtube.com/vi/GJn3SSoGSK8/0.jpg" alt="Xem video demo">
     </a>
 </p>
+
 ---
 
 
