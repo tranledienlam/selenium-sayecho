@@ -29,7 +29,7 @@
 
 **AUTOMATION SAYECHO** là tool tự động check-in hằng ngày.
 
-📌 **Trang dự án**: [Harpie.io](https://www.sayecho.xyz)
+📌 **Trang dự án**: [Sayecho](https://www.sayecho.xyz)
 
 <p align="center">
     <img src="intro.png" alt="Giới thiệu">
