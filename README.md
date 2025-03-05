@@ -57,7 +57,7 @@
 ## 🔧 Yêu cầu ban đầu
 
 - **X**: Đăng nhập tài khoản X.
-- **sayecho**: Đăng nhập tài khoản acho với passkeys.
+- **sayecho**: Đăng nhập tài khoản sayecho với passkeys.
 
 ---
 
@@ -69,7 +69,7 @@
 | `utils.py`                     | Các hàm hỗ trợ chung.                    |
 | `sayecho.py`                   | Chương trình chính thực hiện automation. |
 | `requirements.txt`             | Danh sách các thư viện cần thiết.        |
-| `intro.png`                    | Danh sách các thư viện cần thiết.        |
+| `intro.png`                    | Hình ảnh giới thiệu.                     |
 
 ---
 
